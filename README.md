@@ -882,6 +882,18 @@ Rules:
 │  • 9 Embedded Charts — bar, pie, doughnut across 6 sheets       │
 └─────────────────────────────────────────────────────────────────┘
 ```
+## Screenshots
+<img width="1490" height="763" alt="image" src="https://github.com/user-attachments/assets/9fc2e4c7-2cfa-432f-b7c2-0c5651952142" />
+
+<img width="1492" height="753" alt="image" src="https://github.com/user-attachments/assets/746bd4ac-a245-4f00-a0b4-4678e4ae6e53" />
+
+<img width="1482" height="748" alt="image" src="https://github.com/user-attachments/assets/1f85509f-6602-42cd-9df6-80c249c2f943" />
+
+<img width="1506" height="722" alt="image" src="https://github.com/user-attachments/assets/35bad5a8-1ee5-4d90-be4b-5a20821560af" />
+
+<img width="1517" height="731" alt="image" src="https://github.com/user-attachments/assets/db039d81-f16d-4791-b9cd-03384e5eb2bf" />
+
+
 
 ---
 
